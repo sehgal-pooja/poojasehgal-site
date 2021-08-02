@@ -1,1 +1,3 @@
-This is my personal portfolio in making.I'm learning REACT via neoG camp.
+# Pooja's portfolio
+
+Hey!! Welcome to my portfolio. I'm learning to create one.
